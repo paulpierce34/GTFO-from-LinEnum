@@ -3,9 +3,11 @@ The purpose of this script is to check for the existence of GTFOBins for any of 
 
 # HOW TO USE
 Step 1: Run LinEnum.sh and save to an output file
+
 **./LinEnum.sh > output.txt**
 
 Step2: Run this script against the output file
+
 **chmod +x checkGTFO.sh**
 **./checkGTFO.sh /path/to/output.txt**
 
