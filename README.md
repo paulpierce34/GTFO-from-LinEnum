@@ -1,6 +1,8 @@
 # GTFO-from-LinEnum
 The purpose of this script is to check for the existence of GTFOBins for any of the SUID/SGID binaries found in a LinEnum.sh (by @rebootuser) output file
 
+LinEnum script can be found here: https://github.com/rebootuser/LinEnum
+
 # HOW TO USE
 Step 1: Run LinEnum.sh and save to an output file
 
