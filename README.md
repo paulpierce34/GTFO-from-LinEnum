@@ -13,6 +13,8 @@ Step 2: Clone repo to destination directory, cd to it
 **cd GTFO-from-LinEnum**
 
 
+
+
 Step 3: Run this script against the output file
 
 **chmod +x checkGTFO.sh**
