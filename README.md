@@ -6,7 +6,14 @@ Step 1: Run LinEnum.sh and save to an output file
 
 **./LinEnum.sh > output.txt**
 
-Step2: Run this script against the output file
+Step 2: Clone repo to destination directory, cd to it
+
+**git clone https://github.com/paulpierce34/GTFO-from-LinEnum.git**
+
+**cd GTFO-from-LinEnum**
+
+
+Step 3: Run this script against the output file
 
 **chmod +x checkGTFO.sh**
 
