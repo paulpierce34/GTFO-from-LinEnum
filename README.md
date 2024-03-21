@@ -15,4 +15,8 @@ Step 2: Run this script against the output file
 
 **./checkGTFO.sh /path/to/output.txt**
 
+If the binary exists in GTFOBins, it will be written to stdout
+
 ![Desktop 2024 03 21 - 13 46 09 02 (2)](https://github.com/paulpierce34/GTFO-from-LinEnum/assets/33561650/da2c5c98-2d90-4039-8ace-20ff4740f35f)
+
+
