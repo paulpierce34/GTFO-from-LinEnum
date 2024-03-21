@@ -11,7 +11,7 @@ echo "Executing script..."
 filename=$1
 echo "Reading from input file: $filename"
 
-binariesfound="/root/binariesfound.txt"
+binariesfound="/$HOME/binariesfound.txt"
 touch $binariesfound
 
 ## Get all SUID binaries
